@@ -1,33 +1,31 @@
-Excel Data Analytics Projects
 
-This repository contains a collection of Excel-based data analysis and dashboard projects. Each project showcases skills in data cleaning, transformation, and visualization using Excel’s analytical tools.
 
-What’s Included
+---
 
-Interactive dashboards
+# Excel Data Analytics Projects
 
-Pivot tables & pivot charts
+This repository contains a collection of **Excel-based data analysis and dashboard projects**. Each project showcases skills in data cleaning, transformation, and visualization using Excel’s analytical tools.
 
-Data cleaning using Power Query
+### **What’s Included**
 
-Excel formulas & functions
+* Interactive dashboards
+* Pivot tables & pivot charts
+* Data cleaning using Power Query
+* Excel formulas & functions
+* Business insights and summary reports
 
-Business insights and summary reports
+### **Tools & Techniques**
 
-Tools & Techniques
+* Pivot Tables
+* Power Query
+* Lookup Functions (VLOOKUP, XLOOKUP)
+* Logical & Text Functions
+* Conditional Formatting
+* Charts & Visualizations
 
-Pivot Tables
-
-Power Query
-
-Lookup Functions (VLOOKUP, XLOOKUP)
-
-Logical & Text Functions
-
-Conditional Formatting
-
-Charts & Visualizations
-
-Purpose
+### **Purpose**
 
 This repository highlights my ability to analyze datasets, build dashboards, and present insights using Excel—an essential skillset for data analysis and business intelligence roles.
+
+---
+
