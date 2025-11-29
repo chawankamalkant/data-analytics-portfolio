@@ -1,25 +1,37 @@
-Hospital Management System – MySQL Project
+# Hospital Management System (SQL Schema & Queries)
 
-This project contains a complete Hospital Management Database built using MySQL. It includes tables for patients, doctors, appointments, treatments, and billing, along with sample data and a wide range of SQL queries for analysis.
+## Overview
 
-The database demonstrates key SQL concepts including table creation, relationships using foreign keys, CRUD operations, joins, aggregate functions, date-based filtering, subqueries, and reporting queries.
-All queries are designed to reflect real-world hospital operations such as scheduling appointments, recording treatments, generating billing amounts, and analyzing patient/doctor information.
+This repository contains the SQL script for setting up and querying a foundational **Hospital Management System** database. The script (`hospital_management.sql`) is designed for educational or practice purposes, demonstrating key database design principles, table relationships, and advanced SQL query techniques.
 
-Main Features
+## Project Goals
 
-Structured database with 5 related tables
+* **Schema Creation:** Provide a complete set of `CREATE TABLE` statements to quickly instantiate a relational database model.
+* **Data Integrity:** Establish clear relationships and constraints using Primary Keys, Auto-Incrementing IDs, and Foreign Keys.
+* **SQL Practice:** Offer various example queries covering common database operations for a healthcare context.
 
-Sample records for testing
+## Database Schema
 
-Queries for:
+The script creates the `hospital_management` database and includes the following tables:
 
-Patient/doctor details
+* **`Patients`**: Stores patient demographic and contact information.
+* **`Doctors`**: Stores doctor details, including specialization.
+* **`Appointments`**: Manages scheduling, linking patients and doctors.
+* **`Treatments`**: Records diagnoses and medicine prescribed per appointment.
+* **`Billing`**: Handles financial transactions, including total amount and payment status.
 
-Appointment tracking
+## Key Features (SQL Examples)
 
-Treatment records
+The file includes examples of advanced SQL queries, ideal for learning or review:
 
-Billing analysis
+* **`JOINS`**: Demonstrates inner, left, and right joins across the related tables.
+* **`SUBQUERY`**: Includes both single-row (e.g., finding the patient with the maximum bill) and multi-row subqueries (e.g., finding doctors with appointments).
+* **`WINDOWS FUNCTIONS`**: Illustrates the use of `ROW_NUMBER()`, `RANK()`, and `DENSE_RANK()` for complex ranking and numbering tasks.
 
-Joins, aggregations, filters, and subqueries
+## Usage
+
+1.  **Select a Database Engine:** This script is written using standard SQL syntax, typically compatible with MySQL, PostgreSQL, or SQL Server.
+2.  **Execute the Script:** Run the entire `hospital_management.sql` file in your preferred SQL client or command line tool.
+3.  **Database Setup:** The script will automatically create the `hospital_management` database, all necessary tables, and populate them with sample data.
+4.  **Practice:** Execute and modify the provided example queries to practice your SQL skills.
 
