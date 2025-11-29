@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository hosts the updated practice dataset for **K&K Biscuit**. The file, `K&K Biscuit Practice DatasetUpdated.xlsm`, is a comprehensive Microsoft Excel Macro-Enabled Workbook designed for data analysis, reporting, and business intelligence exercises.
+This repository hosts the updated practice dataset for **K&K Biscuit**. The file is a comprehensive Microsoft Excel Macro-Enabled Workbook designed for data analysis, reporting, and business intelligence exercises.
 
 ## Contents & Features
 
