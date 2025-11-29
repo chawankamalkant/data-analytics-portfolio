@@ -1,6 +1,6 @@
-This repository contains a collection of SQL projects and queries demonstrating practical data analysis, database design, and problem-solving skills using MySQL.
+**This repository contains a collection of SQL projects and queries demonstrating practical data analysis, database design, and problem-solving skills using MySQL.**
 
-What’s Included
+**What’s Included**
 
 Database creation scripts
 
