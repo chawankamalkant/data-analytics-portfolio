@@ -1,5 +1,5 @@
+**E-commerce Dashboard (Power BI)**
 
-E-commerce Dashboard (Power BI)
 Overview
 This repository contains the interactive E-commerce Dashboard, a comprehensive business intelligence report developed using Microsoft Power BI. The file, e-commerce dashboard.pbix, is designed to provide key stakeholders and analysts with deep insights into online sales performance, customer behavior, and operational efficiency.
 
