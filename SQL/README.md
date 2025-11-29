@@ -1,5 +1,3 @@
-Here is a **short, clean, and professional README** for your **SQL Projects** repository:
-
 ---
 
 #  SQL Data Analytics Projects
