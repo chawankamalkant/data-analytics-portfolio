@@ -25,6 +25,5 @@ Power BI, Excel, DAX, Power Query
 ## Usage
 Download the `.pbix` file and open it in Power BI Desktop to explore the dashboard.
 
-## Author
-Kamal Chavan
+
 
