@@ -16,9 +16,9 @@ This repository contains a collection of Power BI dashboards and reports showcas
 
 ## Repository Structure
 
-* **/Dashboards** – PBIX files of completed reports
-* **/Data** – Sample datasets used (if included)
-* **/Documentation** – Notes, screenshots, and project explanation
+* **Dashboards** – PBIX files of completed reports
+* **Data** – Sample datasets used (if included)
+* **Documentation** – Notes, screenshots, and project explanation
 
 ## Tools Used
 
